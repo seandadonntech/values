@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+import "fmt" // go packages for printing text
 
 func main() {
 	fmt.Println("123 + 123") // add operator in golang aka go
